@@ -1,6 +1,21 @@
 # Attributes
 
-Every character has five attributes, rated **1–100**. A typical human falls between **30 and 70**.
+Every character has five attributes, rated **1–100**. The **average person scores 30–35**.
+
+| Score | Meaning |
+| --- | --- |
+| 1–9 | Severely limited |
+| 10–19 | Weak |
+| 20–29 | Below average |
+| **30–39** | **Average** |
+| 40–49 | Above average |
+| 50–59 | Talented |
+| 60–69 | Exceptional |
+| 70–79 | Elite |
+| 80–89 | Peak human |
+| 90–100 | Legendary or superhuman |
+
+Player characters are usually above average in their strongest attributes, but an untrained average person succeeds at a direct attribute test only about a third of the time. Skills are what make characters reliable.
 
 | Attribute | Covers |
 | --- | --- |

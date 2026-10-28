@@ -33,22 +33,21 @@ Outside your turn, you also get **one reaction** per round.
 
 ### Movement
 
-**Movement = (Strength + Dexterity) ÷ 4 feet**, rounded to the nearest 5, with halves rounding up (minimum 5 feet). In other words, half the average of the two attributes.
+**Movement = the average of Strength and Dexterity, in feet**, rounded to the nearest 5, with halves rounding up (minimum 5 feet).
 
-| Strength + Dexterity | Movement |
+| Average of Strength and Dexterity | Movement |
 | --- | --- |
-| Under 30 | 5 ft |
-| 30–49 | 10 ft |
-| 50–69 | 15 ft |
-| 70–89 | 20 ft |
-| 90–109 | 25 ft |
-| 110–129 | 30 ft |
-| 130–149 | 35 ft |
-| 150–169 | 40 ft |
-| 170–189 | 45 ft |
-| 190–200 | 50 ft |
+| 18–22 | 20 ft |
+| 23–27 | 25 ft |
+| 28–32 | 30 ft |
+| 33–37 | 35 ft |
+| 38–42 | 40 ft |
+| 48–52 | 50 ft |
+| 73–77 | 75 ft |
 
-> **Example:** Rafael has Strength 45 and Dexterity 60, a total of 105, so he moves 25 feet (5 squares on a 5-foot grid).
+An average person moves about 35 feet (7 squares on a 5-foot grid).
+
+> **Example:** Rafael has Strength 45 and Dexterity 60. Their average is 52.5, so he moves 55 feet.
 
 A leg injury halves movement. Standing up from prone costs half your movement. Powers like Flight or Super-Speed can exceed these numbers.
 
@@ -142,6 +141,29 @@ Range class is separate from damage class (see [`06-damage.md`](06-damage.md#wea
 - **Scopes and sights:** when you Aim with a scoped weapon, treat the target as one band closer.
 - **Powers:** damaging powers reach Medium range unless the world or discipline says otherwise.
 - **Shooting in melee:** making a ranged attack while an enemy is in your engagement range is at −20, and you can't Aim.
+
+### Ammunition
+
+STARS tracks ammunition **per magazine**, not per bullet.
+
+- Each ranged weapon has a **capacity**: the number of attacks it can make before it needs reloading. **Every attack uses 1**, including extra attacks from rapid or automatic fire.
+- **Reloading** is a minor action that loads a fresh magazine. Whatever was left in the old one is lost in the scramble.
+- A character's spare ammunition is simply **how many magazines they carry**.
+
+| Weapon | Capacity | Spare ammunition counted as |
+| --- | --- | --- |
+| Crossbow, musket | 1 | Bolts or shots, in bundles of 10 |
+| Bow, sling | 20 | Quivers or pouches |
+| Revolver, shotgun | 6 | Boxes of shells |
+| Pistol | 10 | Magazines |
+| Rifle, assault rifle, submachine gun | 15 | Magazines |
+| Machine gun | 30 | Belts or drums |
+| Blaster pistol | 15 | Power cells |
+| Blaster rifle | 25 | Power cells |
+
+> **Example:** A machine gunner making 4 attacks a turn gets 7 full bursts from a 30-shot belt. On the eighth turn only 2 shots remain, so the gunner makes 2 attacks and then has to reload.
+
+Thrown weapons and melee weapons don't use ammunition.
 
 ### Cover
 

@@ -15,7 +15,7 @@ STARS sorts weapons into classes rather than listing every weapon. Each world as
 | **Very heavy** | d10 | Greatsword, crossbow | Shotgun (close), sniper rifle | Plasma rifle |
 | **Massive** | 2d8 | Siege crossbow, giant's club | Heavy machine gun | Mounted cannon |
 
-For reference, a typical character in a Standard world has about 14 HP, so a sword fight lasts a few solid hits.
+For reference, an average person in a Standard world has about 11 HP, and a sturdy hero about 14, so a sword fight lasts a few solid hits.
 
 ## Strength bonus
 

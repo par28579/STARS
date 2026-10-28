@@ -42,7 +42,7 @@ Still open:
 **Decided:**
 
 - Initiative is a Dexterity test. Each turn has movement, a major action, a minor action and free actions, plus one reaction per round (see [`rules/09-combat.md`](../rules/09-combat.md)).
-- Movement is (Strength + Dexterity) ÷ 4 feet, rounded to the nearest 5.
+- Movement is the average of Strength and Dexterity in feet, rounded to the nearest 5 (about 35 feet for an average person).
 - Four range bands (Close ±0, Medium −10, Long −20, Extreme −40); each ranged weapon has a range class setting its farthest band.
 
 - Opportunity attacks at −20, as a reaction, when an enemy's melee attack misses you or an enemy leaves your engagement range.
@@ -52,9 +52,10 @@ Still open:
 
 - Multiple attacks: 1 + skill bonus (+1 at 75, +2 at 100) + weapon bonus (Rapid +1, Automatic +2).
 
+- Ammunition is tracked per magazine: weapons have a capacity in attacks, every attack uses 1, and reloading is a minor action.
+
 Still open:
 
-- **Ammunition.** Track rounds and reloads, or abstract it (for example, an automatic weapon runs dry on a fumble)?
 - **Skill thresholds and advancement.** Once character creation and advancement exist, check that skill 75 and 100 arrive at sensible points.
 
 ## Character creation

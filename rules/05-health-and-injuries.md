@@ -13,7 +13,7 @@
 | Heroic | +10 |
 | Superhuman | +20 |
 
-> **Example:** In a Standard world, a character with Strength 45 has 9 + 5 = **14 HP**.
+> **Example:** In a Standard world, an average person with Strength 33 has 6 + 5 = **11 HP**. A sturdier hero with Strength 45 has 9 + 5 = **14 HP**.
 
 Damage reduces current HP. Healing restores it, up to the maximum.
 
