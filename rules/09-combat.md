@@ -33,7 +33,24 @@ Outside your turn, you also get **one reaction** per round.
 
 ### Movement
 
-Move up to **30 feet** (6 squares on a 5-foot grid). A leg injury halves this. Standing up from prone costs half your movement.
+**Movement = (Strength + Dexterity) ÷ 4 feet**, rounded to the nearest 5, with halves rounding up (minimum 5 feet). In other words, half the average of the two attributes.
+
+| Strength + Dexterity | Movement |
+| --- | --- |
+| Under 30 | 5 ft |
+| 30–49 | 10 ft |
+| 50–69 | 15 ft |
+| 70–89 | 20 ft |
+| 90–109 | 25 ft |
+| 110–129 | 30 ft |
+| 130–149 | 35 ft |
+| 150–169 | 40 ft |
+| 170–189 | 45 ft |
+| 190–200 | 50 ft |
+
+> **Example:** Rafael has Strength 45 and Dexterity 60, a total of 105, so he moves 25 feet (5 squares on a 5-foot grid).
+
+A leg injury halves movement. Standing up from prone costs half your movement. Powers like Flight or Super-Speed can exceed these numbers.
 
 ### Major actions
 
@@ -41,7 +58,7 @@ Move up to **30 feet** (6 squares on a 5-foot grid). A leg injury halves this. S
 | --- | --- |
 | **Attack** | Make one melee or ranged attack |
 | **Use a power** | Use a Moderate, Major or Extreme effect |
-| **Dash** | Move again (another 30 feet) |
+| **Dash** | Move again (a second full movement) |
 | **Full defense** | +20 to every defense until your next turn |
 | **First aid** | Make a Medicine test on someone (see [`08-healing.md`](08-healing.md#first-aid)) |
 | **Help** | Give an ally +20 on their next test, if you can plausibly help |
@@ -61,6 +78,32 @@ Move up to **30 feet** (6 squares on a 5-foot grid). A leg injury halves this. S
 ### Free actions
 
 Things that take no real time: say a few words, drop an item, let go of a ledge. The GM can limit these if they get out of hand.
+
+### Ranged attacks
+
+Ranged attacks take a penalty based on how far away the target is:
+
+| Range band | Distance | Modifier |
+| --- | --- | --- |
+| **Close** | Up to 30 ft | ±0 |
+| **Medium** | Up to 100 ft | −10 |
+| **Long** | Up to 300 ft | −20 |
+| **Extreme** | Up to 1,000 ft | −40 |
+
+Every ranged weapon has a **range class**, the farthest band it can reach:
+
+| Range class | Farthest band | Fantasy | Modern | Sci-fi |
+| --- | --- | --- | --- | --- |
+| **Thrown** | Close | Throwing axe, javelin | Grenade, knife | Grenade |
+| **Short** | Medium | Sling, shortbow | Pistol, shotgun | Holdout blaster |
+| **Long** | Long | Longbow, crossbow | Rifle | Blaster rifle |
+| **Extreme** | Extreme | Siege engine | Sniper rifle | Railgun |
+
+Range class is separate from damage class (see [`06-damage.md`](06-damage.md#weapon-classes)): a pistol and a shortbow both deal Medium damage, but a longbow out-ranges both.
+
+- **Scopes and sights:** when you Aim with a scoped weapon, treat the target as one band closer.
+- **Powers:** damaging powers reach Medium range unless the world or discipline says otherwise.
+- **Shooting in melee:** making a ranged attack while an enemy is within 5 feet of you is at −20, and you can't Aim.
 
 ### Reaction
 

@@ -39,11 +39,14 @@ Still open:
 
 ## Combat structure
 
-**Decided:** Initiative is a Dexterity test. Each turn has movement, a major action, a minor action and free actions, plus one reaction per round (see [`rules/09-combat.md`](../rules/09-combat.md)).
+**Decided:**
+
+- Initiative is a Dexterity test. Each turn has movement, a major action, a minor action and free actions, plus one reaction per round (see [`rules/09-combat.md`](../rules/09-combat.md)).
+- Movement is (Strength + Dexterity) ÷ 4 feet, rounded to the nearest 5.
+- Four range bands (Close ±0, Medium −10, Long −20, Extreme −40); each ranged weapon has a range class setting its farthest band.
 
 Still open:
 
-- **Range bands** for ranged weapons, and penalties at long range?
 - **Opportunity attacks** when someone moves away from a melee opponent?
 - **Cover** and how it affects ranged attacks?
 - **Multiple attacks** for very skilled fighters or fast creatures?
