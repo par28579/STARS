@@ -12,10 +12,12 @@ A skill's base value is **half its attribute** (rounded down). Training adds poi
 
 STARS has no fixed skill list. Each world defines the skills that matter in it. The lists below are examples to start from.
 
+A few skills are used by the core rules, so every world should include them: **Brawl, Melee, Dodge, Medicine** and **Resolve**.
+
 | Attribute | Example skills |
 | --- | --- |
 | **Strength** | Athletics, Brawl, Melee |
-| **Dexterity** | Stealth, Ranged, Sleight of Hand, Drive/Pilot |
+| **Dexterity** | Dodge, Stealth, Ranged, Sleight of Hand, Drive/Pilot |
 | **Intellect** | Notice, Investigate, Medicine, Lore (specific) |
 | **Charisma** | Persuade, Deceive, Intimidate, Insight, Resolve |
 | **Powers** | Setting-specific disciplines (see below) |

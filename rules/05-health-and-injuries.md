@@ -48,7 +48,7 @@ Worlds with non-human creatures, vehicles or starships can define their own loca
 | **Head** | −20 to Intellect tests; dazed for a moment |
 | **Arm** | −20 to tests using that arm; may drop what it holds |
 | **Torso** | −10 to all physical tests |
-| **Leg** | Movement halved; −20 to Athletics and dodging |
+| **Leg** | Movement halved; −20 to Athletics and Dodge |
 
 An injury lasts until it's treated and heals. Injuries to the same location don't stack, but the GM can make a second one more serious (a broken bone, a lost eye).
 
