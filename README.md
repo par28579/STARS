@@ -1,0 +1,24 @@
+# STARS
+
+A generic, universal roleplaying system (not to be confused with *the* Generic Universal RolePlaying System).
+
+STARS is built to run any genre, from gritty crime to high fantasy to space opera, using one core mechanic and a handful of setting dials. It's designed to work well with an AI Game Master, such as on [Craft](https://www.craftrpgs.com), where clear, consistent rules matter even more than at a human table.
+
+## Design goals
+
+- **One mechanic for everything.** Every test is a percentile roll-under.
+- **Transparent odds.** "Your Stealth is 55" means a 55% chance. Players and GMs (human or AI) never have to do hidden math.
+- **Universal core, setting-specific edges.** The core rules stay fixed; worlds add their own skills, powers and dials.
+
+## Status
+
+Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's still being decided.
+
+## Contents
+
+| File | What it covers |
+| --- | --- |
+| [`rules/01-core-resolution.md`](rules/01-core-resolution.md) | Rolling, difficulty modifiers, degrees of success, opposed rolls |
+| [`rules/02-attributes.md`](rules/02-attributes.md) | The five attributes |
+| [`rules/03-skills.md`](rules/03-skills.md) | How skills work and example skill lists |
+| [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |
