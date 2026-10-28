@@ -24,4 +24,5 @@ Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's s
 | [`rules/02-attributes.md`](rules/02-attributes.md) | The five attributes |
 | [`rules/03-skills.md`](rules/03-skills.md) | How skills work, example skill lists, and power disciplines |
 | [`rules/04-power-slots.md`](rules/04-power-slots.md) | Power slots, effect tiers, spending and recovery |
+| [`rules/05-health-and-injuries.md`](rules/05-health-and-injuries.md) | Hit points, injuries, hit locations, and 0 HP |
 | [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |

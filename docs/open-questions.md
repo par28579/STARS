@@ -4,11 +4,10 @@ Design decisions still being worked out.
 
 ## Powers
 
-**Decided:** Powers is its own attribute, and the power system is the skills (disciplines) under it. Powers can be switched off for mundane settings.
+**Decided:**
 
-Still open:
-
-**Decided:** Powers are limited by **one shared pool of slots**, with Minor/Moderate/Major/Extreme effects costing 0/1/2/3 slots (see [`rules/04-power-slots.md`](../rules/04-power-slots.md)).
+- Powers is its own attribute, and the power system is the skills (disciplines) under it. Powers can be switched off for mundane settings.
+- Powers are limited by **one shared pool of slots**, with Minor/Moderate/Major/Extreme effects costing 0/1/2/3 slots (see [`rules/04-power-slots.md`](../rules/04-power-slots.md)).
 
 Still open:
 
@@ -26,8 +25,13 @@ Nothing explicitly covers stamina or physical endurance yet. Fold it into Streng
 
 ## Damage and health
 
-- Hit points, conditions (Shaken, Wounded, Exhausted), or both?
-- How is health derived from attributes?
+**Decided:** One HP pool (Strength ÷ 5 + world bonus), plus injuries to a hit location on criticals and big hits. Full per-location HP is an optional dial (see [`rules/05-health-and-injuries.md`](../rules/05-health-and-injuries.md)).
+
+Still open:
+
+- **Weapon damage.** How much damage do attacks deal? Dice per weapon, a flat value plus degree of success, or something else?
+- **Armor.** Does it reduce damage, make you harder to hit, or both?
+- **Healing.** How much HP comes back with rest, and how do Medicine and powers help? How long do injuries last?
 
 ## Character creation
 
@@ -38,7 +42,9 @@ Nothing explicitly covers stamina or physical endurance yet. Fold it into Streng
 
 Settings a world builder can turn without changing the core rules. Candidates:
 
-- Lethality
+- Lethality (heroic / standard / gritty)
+- HP bonus (+0 / +5 / +10 / +20)
+- Hit locations (injuries only / full per-location HP)
 - Powers on/off
 - Rarity and potency of powers (including slot count)
 - Length of a full rest (heroic / standard / gritty)
