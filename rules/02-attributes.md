@@ -8,7 +8,7 @@ Every character has five attributes, rated **1–100**. A typical human falls be
 | **Dexterity** | Agility, aim, reflexes, fine motor work |
 | **Intellect** | Knowledge, reasoning, perception |
 | **Charisma** | Persuasion, presence, reading people |
-| **Powers** | The setting's "special" attribute (working name, see below) |
+| **Powers** | Whatever is extraordinary in the setting (see below) |
 
 ## Testing an attribute directly
 
@@ -16,6 +16,14 @@ When no skill fits, test the attribute itself (for example, a Strength test to f
 
 ## About Powers
 
-*Working name.* This attribute covers whatever is extraordinary in a setting: magic, psionics, superpowers, faith, cybernetic interfaces.
+Powers covers whatever is extraordinary in a setting: magic, psionics, superpowers, faith, cybernetic interfaces.
 
-Under consideration: renaming it **Spirit** or **Essence** and having it also cover **willpower and resolve** (resisting fear, mind control and despair). That would let a mundane, no-magic setting still use all five attributes. See [`docs/open-questions.md`](../docs/open-questions.md).
+STARS has no separate power system. **The power system is the skills under Powers.** Each power is a skill (a *discipline*), rolled exactly like any other skill. See [`03-skills.md`](03-skills.md#power-skills).
+
+### Settings without powers
+
+In a world with no extraordinary abilities, the world builder switches Powers off. It isn't bought or rolled, and characters have four attributes.
+
+### Willpower
+
+Powers covers only extraordinary abilities, not willpower. Resisting fear, mind control and despair uses the **Resolve** skill, which sits under another attribute (proposed: Charisma). See [`docs/open-questions.md`](../docs/open-questions.md).
