@@ -33,9 +33,7 @@ Nothing explicitly covers stamina or physical endurance yet. Fold it into Streng
 
 Still open:
 
-- **Healing.** How much HP comes back with rest, and how do Medicine and powers help? How long do injuries last?
-- **Criticals vs. armor.** The draft has criticals ignore armor, on top of maximum damage and an injury. Too swingy?
-- **Scale.** How do vehicles, starships and giant monsters fit the d3–2d8 range?
+- **Healing.** How much HP comes back with rest, and how do Medicine and powers help? How long do injuries last?- **Scale.** How do vehicles, starships and giant monsters fit the d3–2d8 range?
 - **Power damage.** Are the draft tier values (d3 / d8 / 2d6 / 4d8) balanced against weapons?
 
 ## Combat structure

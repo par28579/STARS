@@ -55,7 +55,7 @@ The **penalty** applies to Dodge, Stealth and Athletics tests while wearing the 
 
 ### Armor and other rules
 
-- **Criticals ignore armor.** The attacker found a gap.
+- **Criticals halve armor** (rounded down). The attacker found a weak spot. Against Heavy armor (AV 4), a critical faces only AV 2.
 - **Injuries** use damage **after** armor. A hit counts as "more than half max HP" only if what gets through is that big.
 - **Powers:** armor reduces physical power damage (fire, lightning, force). Mental or spiritual attacks ignore it unless the world says otherwise.
 - **Full hit locations dial:** each location can have its own AV, so a helmet protects only the head.
