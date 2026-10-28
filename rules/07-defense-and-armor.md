@@ -33,7 +33,7 @@ An attacker's **critical** beats any defense except a defender's critical. Two c
 
 ### Multiple defenses
 
-The first defense before a character's next turn is free. Each defense after that is at a cumulative **−20**.
+The first defense each round uses the character's **reaction** (see [`09-combat.md`](09-combat.md#reaction)). Each defense after that is at a cumulative **−20**.
 
 ### Area effects
 

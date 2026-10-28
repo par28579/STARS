@@ -39,9 +39,14 @@ Still open:
 
 ## Combat structure
 
-- How are rounds and turns structured, and who goes first (initiative)?
-- How far can characters move, and what counts as an action?
-- Range bands for ranged weapons?
+**Decided:** Initiative is a Dexterity test. Each turn has movement, a major action, a minor action and free actions, plus one reaction per round (see [`rules/09-combat.md`](../rules/09-combat.md)).
+
+Still open:
+
+- **Range bands** for ranged weapons, and penalties at long range?
+- **Opportunity attacks** when someone moves away from a melee opponent?
+- **Cover** and how it affects ranged attacks?
+- **Multiple attacks** for very skilled fighters or fast creatures?
 
 ## Character creation
 
