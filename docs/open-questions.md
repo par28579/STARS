@@ -48,9 +48,10 @@ Still open:
 - Opportunity attacks at −20, as a reaction, when an enemy's melee attack misses you or an enemy leaves your engagement range.
 - Cover as an attack modifier (Light −10, Partial −20, Heavy −40, Full can't be targeted).
 
+- A Withdraw major action lets a character leave engagement without provoking.
+
 Still open:
 
-- **Withdrawing.** Should there be a careful-retreat option that avoids opportunity attacks?
 - **Multiple attacks** for very skilled fighters or fast creatures?
 
 ## Character creation

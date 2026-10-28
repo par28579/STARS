@@ -60,6 +60,7 @@ A leg injury halves movement. Standing up from prone costs half your movement. P
 | **Use a power** | Use a Moderate, Major or Extreme effect |
 | **Dash** | Move again (a second full movement) |
 | **Full defense** | +20 to every defense until your next turn |
+| **Withdraw** | Leaving engagement range doesn't provoke opportunity attacks this turn (see [Opportunity attacks](#opportunity-attacks)) |
 | **First aid** | Make a Medicine test on someone (see [`08-healing.md`](08-healing.md#first-aid)) |
 | **Help** | Give an ally +20 on their next test, if you can plausibly help |
 | **Ready** | Choose a major action and a trigger ("I shoot whoever comes through the door"). It happens as your reaction when the trigger occurs |
@@ -142,6 +143,12 @@ An opportunity attack is a melee attack at **−20**, made as your reaction, whe
 - **An enemy leaves your engagement range.** You strike at them as they pull away.
 
 The target can defend against an opportunity attack as normal.
+
+### Withdrawing
+
+To back out of a fight safely, use the **Withdraw** major action. For the rest of your turn, leaving any enemy's engagement range doesn't provoke an opportunity attack. You still move your normal distance.
+
+The cost is your major action: you can get away cleanly, or attack and risk a strike as you go. (Withdraw doesn't protect against the other trigger. If an enemy attacks you later and misses, they've still left an opening.)
 
 Because it uses your reaction, you can't dodge an attack *and* counter it in the same round. A counter only comes when the enemy misses on their own, so you can either play it safe and defend, or gamble on a miss and strike back.
 
