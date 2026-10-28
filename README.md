@@ -29,4 +29,5 @@ Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's s
 | [`rules/07-defense-and-armor.md`](rules/07-defense-and-armor.md) | Dodging, parrying and blocking; armor values and penalties |
 | [`rules/08-healing.md`](rules/08-healing.md) | Natural healing, first aid, healing powers, treating injuries |
 | [`rules/09-combat.md`](rules/09-combat.md) | Initiative, turns, movement, actions, range bands, cover, reactions, opportunity attacks |
+| [`rules/10-character-creation.md`](rules/10-character-creation.md) | Building a character, step by step, with a worked example |
 | [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |

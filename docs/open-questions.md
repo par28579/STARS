@@ -44,24 +44,26 @@ Still open:
 - Initiative is a Dexterity test. Each turn has movement, a major action, a minor action and free actions, plus one reaction per round (see [`rules/09-combat.md`](../rules/09-combat.md)).
 - Movement is the average of Strength and Dexterity in feet, rounded to the nearest 5 (about 35 feet for an average person).
 - Four range bands (Close ±0, Medium −10, Long −20, Extreme −40); each ranged weapon has a range class setting its farthest band.
-
 - Opportunity attacks at −20, as a reaction, when an enemy's melee attack misses you or an enemy leaves your engagement range.
 - Cover as an attack modifier (Light −10, Partial −20, Heavy −40, Full can't be targeted).
-
 - A Withdraw major action lets a character leave engagement without provoking.
-
 - Multiple attacks: 1 + skill bonus (+1 at 75, +2 at 100) + weapon bonus (Rapid +1, Automatic +2).
-
 - Ammunition is tracked per magazine: weapons have a capacity in attacks, every attack uses 1, and reloading is a minor action.
-
-Still open:
-
-- **Skill thresholds and advancement.** Once character creation and advancement exist, check that skill 75 and 100 arrive at sensible points.
 
 ## Character creation
 
-- How many points do players spend on attributes and skills?
-- Any caps on starting skill values?
+**Decided (draft):** Point-buy attributes from a base of 20, or an optional rolled method; skill points for training, capped at +40 per skill and 70 total at creation (see [`rules/10-character-creation.md`](../rules/10-character-creation.md)).
+
+Still open:
+
+- **Point totals.** Do the Gritty / Standard / Heroic amounts feel right in play?
+- **Starting equipment.** A more concrete default kit, or leave it to each world?
+
+## Advancement
+
+- How do characters improve: experience points spent on skills, skill checks that improve through use, or milestones?
+- How fast should a character reach skill 75 (an extra attack) and 100 (two)?
+- Can attributes improve after creation?
 
 ## Genre dials
 
@@ -73,4 +75,5 @@ Settings a world builder can turn without changing the core rules. Candidates:
 - Powers on/off
 - Rarity and potency of powers (including slot count)
 - Length of a full rest (heroic / standard / gritty)
+- Power level for character creation (gritty / standard / heroic)
 - Heroic resources (Luck, Grit, and so on)
