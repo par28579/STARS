@@ -18,6 +18,8 @@ A character has **one slot per 10 points of Powers** (rounded down).
 
 A character with 0 slots can still use Minor effects.
 
+This is the Standard **slot rate**. Worlds where powers are scarce or abundant can use ÷ 20 or ÷ 5 instead (see [`12-genre-dials.md`](12-genre-dials.md#slot-rate)).
+
 ## Effect tiers
 
 Every use of a discipline is one of four tiers. Bigger effects cost more slots.
@@ -52,7 +54,7 @@ A backlash is a complication caused by the power itself: the fire spreads the wr
 
 ## Recovering slots
 
-All spent slots refresh after a **full rest**. The world decides what a full rest is (see genre dials):
+All spent slots refresh after a **full rest**. The world decides what a full rest is (see [`12-genre-dials.md`](12-genre-dials.md#full-rest)):
 
 - **Heroic:** a short break
 - **Standard:** a full night's sleep

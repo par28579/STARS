@@ -10,7 +10,7 @@ STARS is built to run any genre, from gritty crime to high fantasy to space oper
 
 - **One mechanic for everything.** Every test is a percentile roll-under.
 - **Transparent odds.** "Your Stealth is 55" means a 55% chance. Players and GMs (human or AI) never have to do hidden math.
-- **Universal core, setting-specific edges.** The core rules stay fixed; worlds add their own skills, powers and dials.
+- **Universal core, setting-specific edges.** The core rules stay fixed; worlds add their own skills and powers, and turn [genre dials](rules/12-genre-dials.md) to set the tone.
 
 ## Status
 
@@ -31,4 +31,5 @@ Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's s
 | [`rules/09-combat.md`](rules/09-combat.md) | Initiative, turns, movement, actions, range bands, cover, reactions, opportunity attacks |
 | [`rules/10-character-creation.md`](rules/10-character-creation.md) | Building a character, step by step, with a worked example |
 | [`rules/11-advancement.md`](rules/11-advancement.md) | Milestones, advancement points, raising skills and attributes |
+| [`rules/12-genre-dials.md`](rules/12-genre-dials.md) | Every world setting in one place, with presets and a world sheet |
 | [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |

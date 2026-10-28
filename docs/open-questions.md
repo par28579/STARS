@@ -70,13 +70,9 @@ Still open:
 
 ## Genre dials
 
-Settings a world builder can turn without changing the core rules. Candidates:
+**Decided (draft):** All dials are collected in [`rules/12-genre-dials.md`](../rules/12-genre-dials.md), with Gritty, Standard, Heroic and Superhuman presets. Adds a slot rate dial (Scarce ÷ 20, Standard ÷ 10, Abundant ÷ 5).
 
-- Lethality (heroic / standard / gritty)
-- HP bonus (+0 / +5 / +10 / +20)
-- Hit locations (injuries only / full per-location HP)
-- Powers on/off
-- Rarity and potency of powers (including slot count)
-- Length of a full rest (heroic / standard / gritty)
-- Power level for character creation (gritty / standard / heroic)
-- Heroic resources (Luck, Grit, and so on)
+Still open:
+
+- **Heroic resources.** Luck, Grit or Fate points that let players reroll or avoid death. Design them, and make them a dial?
+- **More dials?** Candidates: how common magic items or tech are, whether critical and fumble ranges change, and how dangerous backlash is.
