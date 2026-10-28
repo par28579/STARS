@@ -103,13 +103,46 @@ Range class is separate from damage class (see [`06-damage.md`](06-damage.md#wea
 
 - **Scopes and sights:** when you Aim with a scoped weapon, treat the target as one band closer.
 - **Powers:** damaging powers reach Medium range unless the world or discipline says otherwise.
-- **Shooting in melee:** making a ranged attack while an enemy is within 5 feet of you is at −20, and you can't Aim.
+- **Shooting in melee:** making a ranged attack while an enemy is in your engagement range is at −20, and you can't Aim.
 
-### Reaction
+### Cover
 
-You get **one reaction** per round, outside your turn. Use it for:
+A target behind cover is harder to hit:
+
+| Cover | Example | Modifier |
+| --- | --- | --- |
+| **Light** | Brush, a fence, a crouching ally | −10 |
+| **Partial** | A low wall, a car door, an overturned table | −20 |
+| **Heavy** | An arrow slit, a doorframe, peeking around a corner | −40 |
+| **Full** | Completely hidden behind something solid | Can't be targeted directly |
+
+- Cover mainly affects **ranged** attacks. It applies in melee only when something is actually in the way, such as fighting across a table.
+- **Area effects** ignore cover unless it's full cover between the target and the center of the blast.
+- **Darkness, smoke and fog** use the same modifiers: dim light is Light, thick smoke is Heavy, and total darkness is Full unless the attacker can see in it.
+
+## Engagement
+
+A character is **engaged** with every enemy within their **engagement range**: 5 feet for most weapons, or 10 feet for reach weapons like spears and polearms.
+
+## Reaction
+
+You get **one reaction** per round, outside your turn. Use it for one of these:
 
 - **A defense** (dodge, parry or block, see [`07-defense-and-armor.md`](07-defense-and-armor.md#defense))
 - **A readied action**
+- **An opportunity attack**
 
-Your first defense each round uses your reaction. You can still defend again after that, at a cumulative −20 per extra defense, but you can't take a readied action once your reaction is spent.
+Your first defense each round uses your reaction. You can still defend again after that, at a cumulative −20 per extra defense, but you can't make a readied action or an opportunity attack once your reaction is spent.
+
+### Opportunity attacks
+
+An opportunity attack is a melee attack at **−20**, made as your reaction, when either of these happens:
+
+- **An enemy's melee attack against you misses.** You strike back through the opening.
+- **An enemy leaves your engagement range.** You strike at them as they pull away.
+
+The target can defend against an opportunity attack as normal.
+
+Because it uses your reaction, you can't dodge an attack *and* counter it in the same round. A counter only comes when the enemy misses on their own, so you can either play it safe and defend, or gamble on a miss and strike back.
+
+> **Example:** A guard attacks Marina and rolls 68 against his Melee of 50, a miss. Marina hasn't used her reaction yet, so she makes an opportunity attack with her Melee of 60 at −20, for a target of 40.

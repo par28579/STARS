@@ -45,10 +45,12 @@ Still open:
 - Movement is (Strength + Dexterity) ÷ 4 feet, rounded to the nearest 5.
 - Four range bands (Close ±0, Medium −10, Long −20, Extreme −40); each ranged weapon has a range class setting its farthest band.
 
+- Opportunity attacks at −20, as a reaction, when an enemy's melee attack misses you or an enemy leaves your engagement range.
+- Cover as an attack modifier (Light −10, Partial −20, Heavy −40, Full can't be targeted).
+
 Still open:
 
-- **Opportunity attacks** when someone moves away from a melee opponent?
-- **Cover** and how it affects ranged attacks?
+- **Withdrawing.** Should there be a careful-retreat option that avoids opportunity attacks?
 - **Multiple attacks** for very skilled fighters or fast creatures?
 
 ## Character creation
