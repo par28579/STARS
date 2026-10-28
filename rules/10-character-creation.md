@@ -48,7 +48,7 @@ Every skill starts at **half its attribute** (see [`03-skills.md`](03-skills.md)
 | Heroic | 250 |
 
 - At most **+40 training** on any one skill.
-- No skill can start above **70**. Extra attacks at skill 75 come only through advancement.
+- No skill can start above **60**. Higher skills, including the extra attack at 75, come through advancement (see [`11-advancement.md`](11-advancement.md)).
 - Every character has the core skills (Brawl, Melee, Dodge, Medicine, Resolve), even if untrained.
 
 ## 4. Powers
@@ -100,15 +100,15 @@ Name, appearance, personality, and a hook or two for the GM: a goal, a secret, a
 
 | Skill | Base | Training | Total |
 | --- | --- | --- | --- |
-| Athletics (STR) | 22 | +20 | 42 |
+| Athletics (STR) | 22 | +25 | 47 |
 | Melee (STR) | 22 | +15 | 37 |
 | Brawl (STR) | 22 | — | 22 |
-| Drive (DEX) | 30 | +40 | 70 |
-| Stealth (DEX) | 30 | +35 | 65 |
+| Drive (DEX) | 30 | +30 | 60 |
+| Stealth (DEX) | 30 | +30 | 60 |
 | Dodge (DEX) | 30 | +30 | 60 |
-| Ranged (DEX) | 30 | +20 | 50 |
+| Ranged (DEX) | 30 | +25 | 55 |
 | Notice (INT) | 25 | +20 | 45 |
-| Medicine (INT) | 25 | +10 | 35 |
+| Medicine (INT) | 25 | +15 | 40 |
 | Resolve (CHA) | 12 | +10 | 22 |
 | **Total training** | | **200** | |
 

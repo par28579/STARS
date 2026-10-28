@@ -52,7 +52,7 @@ Still open:
 
 ## Character creation
 
-**Decided (draft):** Point-buy attributes from a base of 20, or an optional rolled method; skill points for training, capped at +40 per skill and 70 total at creation (see [`rules/10-character-creation.md`](../rules/10-character-creation.md)).
+**Decided (draft):** Point-buy attributes from a base of 20, or an optional rolled method; skill points for training, capped at +40 per skill and 60 total at creation (see [`rules/10-character-creation.md`](../rules/10-character-creation.md)).
 
 Still open:
 
@@ -61,9 +61,12 @@ Still open:
 
 ## Advancement
 
-- How do characters improve: experience points spent on skills, skill checks that improve through use, or milestones?
-- How fast should a character reach skill 75 (an extra attack) and 100 (two)?
-- Can attributes improve after creation?
+**Decided (draft):** Milestone-based. Each milestone gives 10 / 15 / 20 advancement points by power level; skills cost 1, 2 or 3 points per +1 as they rise, up to +5 per milestone. Every fourth milestone adds +5 to an attribute (see [`rules/11-advancement.md`](../rules/11-advancement.md)).
+
+Still open:
+
+- **Pacing in play.** Does skill 75 around milestone 3 and skill 100 around milestone 8 feel right?
+- **Attribute cap.** Is 90 the right ceiling for non-legendary characters?
 
 ## Genre dials
 
