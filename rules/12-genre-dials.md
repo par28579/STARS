@@ -19,6 +19,7 @@ Most worlds can pick a preset and stop there:
 | **Slot rate** | Scarce | Standard | Standard | Abundant |
 | **Attribute ceiling** | 90 | 90 | 90 | 100 |
 | **Attribute method** | Point-buy | Point-buy | Point-buy | Point-buy |
+| **Luck** | Gritty (1) | Standard (3) | Heroic (5) | Heroic (5) |
 
 Mixing is encouraged. A brutal fantasy war story might use Heroic power level (skilled veterans) with Gritty lethality (anyone can die). A cozy slice-of-life world might be Standard everywhere, with Powers off and Heroic lethality, because nobody should die in a bakery.
 
@@ -91,6 +92,10 @@ The highest an attribute can reach through advancement: **90** (peak human) or *
 
 **Point-buy** or **rolled**. See [`10-character-creation.md`](10-character-creation.md#2-attributes).
 
+### Luck
+
+How many Luck points each player character gets per session: **Off (0), Gritty (1), Standard (3) or Heroic (5)**. See [`13-luck.md`](13-luck.md).
+
 ## World sheet
 
 A world records its dials in a short block like this, so anyone running it knows the settings:
@@ -107,6 +112,7 @@ STARS dials
   Slot rate:         Standard
   Attribute ceiling: 90
   Attribute method:  Point-buy
+  Luck:              Standard (called "Fate")
 ```
 
 The world can also rename things to fit its flavor, such as what Powers and power slots are called, or which skills exist.

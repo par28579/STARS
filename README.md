@@ -32,4 +32,5 @@ Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's s
 | [`rules/10-character-creation.md`](rules/10-character-creation.md) | Building a character, step by step, with a worked example |
 | [`rules/11-advancement.md`](rules/11-advancement.md) | Milestones, advancement points, raising skills and attributes |
 | [`rules/12-genre-dials.md`](rules/12-genre-dials.md) | Every world setting in one place, with presets and a world sheet |
+| [`rules/13-luck.md`](rules/13-luck.md) | Luck points: flipping and rerolling dice, shrugging off injuries, cheating death |
 | [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |

@@ -70,9 +70,9 @@ Still open:
 
 ## Genre dials
 
-**Decided (draft):** All dials are collected in [`rules/12-genre-dials.md`](../rules/12-genre-dials.md), with Gritty, Standard, Heroic and Superhuman presets. Adds a slot rate dial (Scarce ÷ 20, Standard ÷ 10, Abundant ÷ 5).
+**Decided (draft):** All dials are collected in [`rules/12-genre-dials.md`](../rules/12-genre-dials.md), with Gritty, Standard, Heroic and Superhuman presets. Adds a slot rate dial (Scarce ÷ 20, Standard ÷ 10, Abundant ÷ 5) and a Luck dial (0 / 1 / 3 / 5 per session, see [`rules/13-luck.md`](../rules/13-luck.md)).
 
 Still open:
 
-- **Heroic resources.** Luck, Grit or Fate points that let players reroll or avoid death. Design them, and make them a dial?
+- **Luck in play.** Is 3 per session right for Standard? Should Luck be shareable with allies?
 - **More dials?** Candidates: how common magic items or tech are, whether critical and fumble ranges change, and how dangerous backlash is.

@@ -66,6 +66,7 @@ Work these out from the attributes:
 | **Power slots** | Powers ÷ 10 | [`04-power-slots.md`](04-power-slots.md#how-many-slots) |
 | **Strength damage bonus** | +1 at 70, +2 at 90 | [`06-damage.md`](06-damage.md#strength-bonus) |
 | **Healing per rest** | Strength ÷ 10 | [`08-healing.md`](08-healing.md#natural-healing) |
+| **Luck per session** | Set by the world | [`13-luck.md`](13-luck.md) |
 
 ## 6. Equipment
 
@@ -112,6 +113,6 @@ Name, appearance, personality, and a hook or two for the GM: a goal, a secret, a
 | Resolve (CHA) | 12 | +10 | 22 |
 | **Total training** | | **200** | |
 
-**Derived values:** 14 HP (9 + 5), 55 ft movement, no Strength damage bonus, 4 HP healed per rest.
+**Derived values:** 14 HP (9 + 5), 55 ft movement, no Strength damage bonus, 4 HP healed per rest, 3 Luck per session.
 
 **Equipment:** crowbar (Light, d4), pistol (Medium damage, Short range, capacity 10) with 3 spare magazines, leather jacket (AV 1), lockpicks, a beat-up car he keeps running out of spite.
