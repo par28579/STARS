@@ -25,13 +25,18 @@ Nothing explicitly covers stamina or physical endurance yet. Fold it into Streng
 
 ## Damage and health
 
-**Decided:** One HP pool (Strength ÷ 5 + world bonus), plus injuries to a hit location on criticals and big hits. Full per-location HP is an optional dial (see [`rules/05-health-and-injuries.md`](../rules/05-health-and-injuries.md)).
+**Decided:**
+
+- One HP pool (Strength ÷ 5 + world bonus), plus injuries to a hit location on criticals and big hits. Full per-location HP is an optional dial (see [`rules/05-health-and-injuries.md`](../rules/05-health-and-injuries.md)).
+- Classic damage dice by weapon class, d3 to 2d8 (see [`rules/06-damage.md`](../rules/06-damage.md)).
 
 Still open:
 
-- **Weapon damage.** How much damage do attacks deal? Dice per weapon, a flat value plus degree of success, or something else?
 - **Armor.** Does it reduce damage, make you harder to hit, or both?
 - **Healing.** How much HP comes back with rest, and how do Medicine and powers help? How long do injuries last?
+- **Defense.** Can a target dodge or parry (an opposed test), or does the attacker just roll against their skill?
+- **Scale.** How do vehicles, starships and giant monsters fit the d3–2d8 range?
+- **Power damage.** Are the draft tier values (d3 / d8 / 2d6 / 4d8) balanced against weapons?
 
 ## Character creation
 
