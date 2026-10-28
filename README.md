@@ -1,5 +1,7 @@
 # STARS
 
+**S**etting **T**ype **A**gnostic **R**oleplaying **S**ystem
+
 A generic, universal roleplaying system (not to be confused with *the* Generic Universal RolePlaying System).
 
 STARS is built to run any genre, from gritty crime to high fantasy to space opera, using one core mechanic and a handful of setting dials. It's designed to work well with an AI Game Master, such as on [Craft](https://www.craftrpgs.com), where clear, consistent rules matter even more than at a human table.
