@@ -56,7 +56,7 @@ A leg injury halves movement. Standing up from prone costs half your movement. P
 
 | Action | What it does |
 | --- | --- |
-| **Attack** | Make one melee or ranged attack |
+| **Attack** | Make one melee or ranged attack, or more with [multiple attacks](#multiple-attacks) |
 | **Use a power** | Use a Moderate, Major or Extreme effect |
 | **Dash** | Move again (a second full movement) |
 | **Full defense** | +20 to every defense until your next turn |
@@ -65,6 +65,43 @@ A leg injury halves movement. Standing up from prone costs half your movement. P
 | **Help** | Give an ally +20 on their next test, if you can plausibly help |
 | **Ready** | Choose a major action and a trigger ("I shoot whoever comes through the door"). It happens as your reaction when the trigger occurs |
 | **Other test** | Anything else that needs a test: pick a lock, hack a console, intimidate a foe |
+
+### Multiple attacks
+
+The Attack action normally gives one attack. Some characters and weapons get **extra attacks**, and the bonuses **add together**:
+
+**Attacks per Attack action = 1 + skill bonus + weapon bonus**
+
+#### Skill bonus
+
+Highly skilled fighters strike more often, based on the skill they're attacking with:
+
+| Weapon skill | Extra attacks |
+| --- | --- |
+| Under 75 | +0 |
+| 75–99 | +1 |
+| 100 or more | +2 |
+
+#### Weapon bonus
+
+Automatic and rapid-fire weapons add attacks of their own:
+
+| Rate of fire | Extra attacks | Fantasy | Modern | Sci-fi |
+| --- | --- | --- | --- | --- |
+| **Single** | +0 | Most weapons | Most pistols, rifles | Most blasters |
+| **Rapid** | +1 | Repeating crossbow | Submachine gun, assault rifle | Burst blaster |
+| **Automatic** | +2 | — | Machine gun | Autocannon, repeater |
+
+Creatures can also have extra attacks built in, like a beast with claws and a bite.
+
+> **Example:** A veteran soldier with Ranged 80 (+1) fires a machine gun (+2), making **4 attacks** with one Attack action. A rookie with the same gun and Ranged 50 makes 3.
+
+#### Rules for extra attacks
+
+- Each attack is its own roll and its own damage. Each can target the same enemy or a different one in range.
+- Aim's +10 applies only to the first attack.
+- Every attack can be defended against separately, so a target facing several attacks quickly runs into the −20 penalty for multiple defenses.
+- Multiple attacks only come with the Attack action. Opportunity attacks and readied actions are always a single attack, and powers are always one use per action.
 
 ### Minor actions
 

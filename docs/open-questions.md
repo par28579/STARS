@@ -50,9 +50,12 @@ Still open:
 
 - A Withdraw major action lets a character leave engagement without provoking.
 
+- Multiple attacks: 1 + skill bonus (+1 at 75, +2 at 100) + weapon bonus (Rapid +1, Automatic +2).
+
 Still open:
 
-- **Multiple attacks** for very skilled fighters or fast creatures?
+- **Ammunition.** Track rounds and reloads, or abstract it (for example, an automatic weapon runs dry on a fumble)?
+- **Skill thresholds and advancement.** Once character creation and advancement exist, check that skill 75 and 100 arrive at sensible points.
 
 ## Character creation
 
