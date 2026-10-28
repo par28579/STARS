@@ -50,7 +50,7 @@ Worlds with non-human creatures, vehicles or starships can define their own loca
 | **Torso** | −10 to all physical tests |
 | **Leg** | Movement halved; −20 to Athletics and Dodge |
 
-An injury lasts until it's treated and heals. Injuries to the same location don't stack, but the GM can make a second one more serious (a broken bone, a lost eye).
+An injury lasts until it's treated and heals (see [`08-healing.md`](08-healing.md#treating-injuries)). Injuries to the same location don't stack, but the GM can make a second one more serious (a broken bone, a lost eye).
 
 ## Zero HP
 

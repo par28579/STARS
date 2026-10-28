@@ -30,10 +30,11 @@ Nothing explicitly covers stamina or physical endurance yet. Fold it into Streng
 - One HP pool (Strength ÷ 5 + world bonus), plus injuries to a hit location on criticals and big hits. Full per-location HP is an optional dial (see [`rules/05-health-and-injuries.md`](../rules/05-health-and-injuries.md)).
 - Classic damage dice by weapon class, d3 to 2d8 (see [`rules/06-damage.md`](../rules/06-damage.md)).
 - Defense (dodge, parry, block) avoids hits with an opposed test; armor reduces damage by a static value (see [`rules/07-defense-and-armor.md`](../rules/07-defense-and-armor.md)).
+- Healing via rest (Strength ÷ 10 per full rest), first aid (Medicine, once per scene) and healing powers; injuries need treatment, then 3 full rests (see [`rules/08-healing.md`](../rules/08-healing.md)).
 
 Still open:
 
-- **Healing.** How much HP comes back with rest, and how do Medicine and powers help? How long do injuries last?- **Scale.** How do vehicles, starships and giant monsters fit the d3–2d8 range?
+- **Healing rates.** Are the draft numbers right in play? Gritty worlds heal very slowly by design.- **Scale.** How do vehicles, starships and giant monsters fit the d3–2d8 range?
 - **Power damage.** Are the draft tier values (d3 / d8 / 2d6 / 4d8) balanced against weapons?
 
 ## Combat structure

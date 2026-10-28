@@ -27,4 +27,5 @@ Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's s
 | [`rules/05-health-and-injuries.md`](rules/05-health-and-injuries.md) | Hit points, injuries, hit locations, and 0 HP |
 | [`rules/06-damage.md`](rules/06-damage.md) | Weapon classes, damage dice, Strength bonus, power damage |
 | [`rules/07-defense-and-armor.md`](rules/07-defense-and-armor.md) | Dodging, parrying and blocking; armor values and penalties |
+| [`rules/08-healing.md`](rules/08-healing.md) | Natural healing, first aid, healing powers, treating injuries |
 | [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |
