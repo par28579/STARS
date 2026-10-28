@@ -1,6 +1,6 @@
 # Power Slots
 
-*Draft.* Powers are limited by **slots**: a pool of uses that refreshes with rest.
+Powers are limited by **slots**: a single shared pool of uses that refreshes with rest. Every discipline a character knows draws from the same pool.
 
 Each world names slots to suit its flavor: spell slots, psi charges, blessings, battery cells, ki.
 
@@ -57,7 +57,3 @@ All spent slots refresh after a **full rest**. The world decides what a full res
 - **Heroic:** a short break
 - **Standard:** a full night's sleep
 - **Gritty:** a week of downtime
-
-## Alternative under consideration: tiered slots
-
-Instead of one pool, characters would have separate slots for each tier (for example, 4 Moderate, 2 Major, 1 Extreme), as in many classic fantasy games. It's more traditional, but heavier to track. See [`docs/open-questions.md`](../docs/open-questions.md).

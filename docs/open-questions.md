@@ -8,11 +8,10 @@ Design decisions still being worked out.
 
 Still open:
 
-**Decided:** Powers are limited by **slots** (see [`rules/04-power-slots.md`](../rules/04-power-slots.md)).
+**Decided:** Powers are limited by **one shared pool of slots**, with Minor/Moderate/Major/Extreme effects costing 0/1/2/3 slots (see [`rules/04-power-slots.md`](../rules/04-power-slots.md)).
 
 Still open:
 
-- **One pool or tiered slots?** The draft uses one pool with Minor/Moderate/Major/Extreme effects costing 0/1/2/3 slots. The alternative is separate slots per tier.
 - **Slot count.** Is one slot per 10 Powers the right rate? Should it be a genre dial?
 - **Backlash.** Leave it to the GM, or write a table?
 - **Effect scale.** How do worlds define what each tier of a discipline can do?
