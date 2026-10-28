@@ -39,4 +39,4 @@ Like other skills, each world defines its own disciplines. For example:
 - **Superheroes:** Flight, Super-Strength, Energy Blast, Invulnerability
 - **Faith-based:** Blessing, Warding, Exorcism
 
-How powerful each discipline is, and what it costs to use, is still being decided. See [`docs/open-questions.md`](../docs/open-questions.md).
+Using a discipline costs **power slots**, depending on how big the effect is. See [`04-power-slots.md`](04-power-slots.md).

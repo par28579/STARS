@@ -22,5 +22,6 @@ Early draft. See [`docs/open-questions.md`](docs/open-questions.md) for what's s
 | --- | --- |
 | [`rules/01-core-resolution.md`](rules/01-core-resolution.md) | Rolling, difficulty modifiers, degrees of success, opposed rolls |
 | [`rules/02-attributes.md`](rules/02-attributes.md) | The five attributes |
-| [`rules/03-skills.md`](rules/03-skills.md) | How skills work and example skill lists |
+| [`rules/03-skills.md`](rules/03-skills.md) | How skills work, example skill lists, and power disciplines |
+| [`rules/04-power-slots.md`](rules/04-power-slots.md) | Power slots, effect tiers, spending and recovery |
 | [`docs/open-questions.md`](docs/open-questions.md) | Design decisions still in progress |

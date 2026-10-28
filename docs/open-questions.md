@@ -8,8 +8,14 @@ Design decisions still being worked out.
 
 Still open:
 
-- **Cost and limits.** What stops a 70% discipline from outclassing a 70% mundane skill? Options: a points pool (mana, strain), a fatigue or condition cost per use, backlash on failures and fumbles, or a mix.
-- **Effect scale.** How do worlds define what a discipline can do, and how strong a critical vs. a normal success is?
+**Decided:** Powers are limited by **slots** (see [`rules/04-power-slots.md`](../rules/04-power-slots.md)).
+
+Still open:
+
+- **One pool or tiered slots?** The draft uses one pool with Minor/Moderate/Major/Extreme effects costing 0/1/2/3 slots. The alternative is separate slots per tier.
+- **Slot count.** Is one slot per 10 Powers the right rate? Should it be a genre dial?
+- **Backlash.** Leave it to the GM, or write a table?
+- **Effect scale.** How do worlds define what each tier of a discipline can do?
 
 ## Willpower
 
@@ -35,5 +41,6 @@ Settings a world builder can turn without changing the core rules. Candidates:
 
 - Lethality
 - Powers on/off
-- Rarity and potency of powers
+- Rarity and potency of powers (including slot count)
+- Length of a full rest (heroic / standard / gritty)
 - Heroic resources (Luck, Grit, and so on)
